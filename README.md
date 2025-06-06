@@ -3,6 +3,7 @@
 ###
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&duration=3000&pause=1000&width=435&lines=Opa!;Meu+nome+%C3%A9+Juan+Victor;Sou+formado+como+t%C3%A9cnico+em+Eletr%C3%B4nica;Atuo+em+programa%C3%A7%C3%A3o+de+microcontroladores;Amo+desenvolver+solu%C3%A7%C3%B5es+tecnol%C3%B3gicas%E2%9D%A4%EF%B8%8F)
+
 ###
 
 <h2 align="left">Estatística:</h2>
@@ -53,10 +54,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-victor-6a7804337/" target="_blank">
-    <img
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  
+  <a href="https://www.instagram.com/ju4njinho/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  
+  <a href="mailto:juanjinhovictor@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
 </div>
 
 ###
